@@ -3,6 +3,7 @@
          diagnosis ai, like this one reduce the amount of doctors needed to run hospitals, and other clinics, lowering healthcare costs, and providing a decent diagnosis for hospitals in rural or poor areas who can't afford a large                 diagnosis team
 #### datasets:
          https://www.kaggle.com/datasets/samuel156/lungxrays-grayscale
+         https://www.kaggle.com/datasets/mohamedasak/chest-x-ray-6-classes-dataset
          https://www.kaggle.com/datasets/aryashetty29/fibrosis
 #### repositories used:
          Onnx
