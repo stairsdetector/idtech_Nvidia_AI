@@ -19,7 +19,7 @@
          step 4: move files over into datset 1, adding fibrosis as a new class
          step 5: switch jetson-inference/python/training/classification/train.py to run on efficient-net-b4
          step 6:enter docker at jetson-inference using ./docker/run.sh, cd to jetson-inference/python/training/classification
-         step 7:re-train model using python3 train.py --model-dir=models/XrayModel data/LungXRaysG-Finalproject -a=efficientnet_b4 --epochs=30
+         step 7:re-train model using python3 train.py --model-dir=models/XrayModel data/LungXRaysG-Finalproject -a=efficientnet_b4 --epochs=15
          step 8:build script to use the efficientnet_b4.onnx file, my version is called mainscript.py, it is in the my-recognition folder
          (to find the names of the output and input of the model you need onnx)
          step 9: run code on images
